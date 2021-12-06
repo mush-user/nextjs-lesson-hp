@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+// arrow function
 export default function Post({ post }) {
   return (
     <div>
